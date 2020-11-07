@@ -71,7 +71,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je startniveau:** Rood.
 
-**Je focus:** Responsive.
+**Je focus:** Responsive design.
 
 **Je opdracht:** (https://www.ruroc.com/nl_nl/ "Ruroc helmen")
 
