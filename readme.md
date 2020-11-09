@@ -81,4 +81,4 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s) van de tweede pagina (small screen --> Iphone X):**
 
-<img src="images/Motor_helmen-page.png" width="375px" alt="De pagina voor motorhelmen.">
+<img src="images/detailpagina_helm.png" width="375px" alt="De detailpagina van een helm.">
