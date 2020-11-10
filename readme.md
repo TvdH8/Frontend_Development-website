@@ -73,12 +73,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Je focus:** Responsive design.
 
-**Je opdracht:** (https://www.ruroc.com/nl_nl/ "Ruroc helmen")
+**Je opdracht:** (https://www.yamaha-motor.eu/nl/nl/ "Yamaha motors")
 
 **Screenshot(s) van de eerste pagina (small screen --> Iphone X):**
 
-<img src="images/Homepage.png" width="375px" alt="De homepage van de Ruroc website.">
+<img src="images/Homepage1.png" width="375px" alt="De homepage en landingspagina van Yamaha.">
+<img src="images/Homepage2.png" width="375px" alt="Product menu op de homepage van Yamaha.">
+<img src="images/Homepage3.png" width="375px" alt="'Meer van yamaha' op de homepage.">
 
 **Screenshot(s) van de tweede pagina (small screen --> Iphone X):**
 
-<img src="images/detailpagina_helm.png" width="375px" alt="De detailpagina van een helm.">
+<img src="images/detailpagina1.png" width="375px" alt="De detailpagina van een een motor.">
+<img src="images/detailpagina2.png" width="375px" alt="De details van de motor.">
+<img src="images/detailpagina3.png" width="375px" alt="Vinden van een dealer en het opslaan van een configuratie.">
+<img src="images/detailpagina4.png" width="375px" alt="De footer.">
