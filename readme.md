@@ -63,8 +63,8 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 
 
 ## Breakdownschets (week 1)
-<img src="basiswebsite/images/breakdown-geheel.png" width="750px" alt="Breakdown schets van de gehele homepage.">
-<img src="basiswebsite/images/breakdown-delen.png" width="750px" alt="Breakdownschetsen van de onderdelen van de homepage.">
+<img src="images/breakdown-geheel.png" width="750px" alt="Breakdown schets van de gehele homepage.">
+<img src="images/breakdown-delen.png" width="750px" alt="Breakdownschetsen van de onderdelen van de homepage.">
 
 
 ## Intake (week 1)
@@ -76,13 +76,13 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 
 **Screenshot(s) van de eerste pagina (small screen --> Iphone X):**
 
-<img src="basiswebsite/images/Homepage1.png" width="375px" alt="De homepage en landingspagina van Yamaha.">
-<img src="basiswebsite/images/Homepage2.png" width="375px" alt="Product menu op de homepage van Yamaha.">
-<img src="basiswebsite/images/Homepage3.png" width="375px" alt="'Meer van yamaha' op de homepage.">
+<img src="images/Homepage1.png" width="375px" alt="De homepage en landingspagina van Yamaha.">
+<img src="images/Homepage2.png" width="375px" alt="Product menu op de homepage van Yamaha.">
+<img src="images/Homepage3.png" width="375px" alt="'Meer van yamaha' op de homepage.">
 
 **Screenshot(s) van de tweede pagina (small screen --> Iphone X):**
 
-<img src="basiswebsite/images/Detailpagina1.png" width="375px" alt="De detailpagina van een een motor.">
-<img src="basiswebsite/images/Detailpagina2.png" width="375px" alt="De details van de motor.">
-<img src="basiswebsite/images/Detailpagina3.png" width="375px" alt="Vinden van een dealer en het opslaan van een configuratie.">
-<img src="basiswebsite/images/Detailpagina4.png" width="375px" alt="De footer.">
+<img src="images/Detailpagina1.png" width="375px" alt="De detailpagina van een een motor.">
+<img src="images/Detailpagina2.png" width="375px" alt="De details van de motor.">
+<img src="images/Detailpagina3.png" width="375px" alt="Vinden van een dealer en het opslaan van een configuratie.">
+<img src="images/Detailpagina4.png" width="375px" alt="De footer.">
