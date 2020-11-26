@@ -42,19 +42,28 @@ Het was makkelijk om alle code over te nemen, maar het kostte erg veel tijd.
 Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel tijd.
 
 **Screenshot(s):**
-<img src="momentopname.png" width="750px" alt="Momentopname van de code voor het 1e gesprek.">
-<img src="momentopname2.png" width="750px" alt="Momentopname van de code voor het 1e gesprek.">
-<img src="momentopname3.png" width="750px" alt="Momentopname van de code voor het 1e gesprek.">
+<img src="momentopname4.png" width="750px" alt="Momentopname van de code voor het 1e gesprek.">
+<img src="momentopname5.png" width="750px" alt="Momentopname van de code voor het 1e gesprek.">
+<img src="momentopname6.png" width="750px" alt="Momentopname van de code voor het 1e gesprek.">
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+**Stijn:** 
+1. Hoe maak je een oneindige loop van fotos horizontaal? 
+1. Hoe zorg je ervoor dat fotos na 5 sec veranderen incl. tekst?
 
-| student 1      | student 2          | student 3    | student 4        |
-| ---            | ---                | ---          | ---              |
-| dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-| an dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-| ...            | ...                | ...          | ...              |
+**Sara**
+1. Wanneer gebruik ik te veel classes? 
+1. Is het aantal wat ik heb te veel?
+
+**Tim**
+1. Hoe maak je een dropdown met transition die over andere tekst heen valt?
+1. Hoe maak je een dropdown navigatie, die navigeert naar content op dezelfde pagina?
+1. Hoe kan ik zien welke icon (<i> element) er word gebruikt?
+1. Wanneer gaan we meer horen over het creëren van een hamburger menu?
+
+**Zain**
+1. Gebruik ik teveel div's?
 
 ### Verslag van meeting
 
