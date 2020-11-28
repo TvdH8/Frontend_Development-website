@@ -59,7 +59,7 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 **Tim**
 1. Hoe maak je een dropdown met transition die over andere tekst heen valt?
 1. Hoe maak je een dropdown navigatie, die navigeert naar content op dezelfde pagina?
-1. Hoe kan ik zien welke icon (<i> element) er word gebruikt?
+1. Hoe kan ik zien welke icon (i element) er word gebruikt?
 1. Wanneer gaan we meer horen over het creëren van een hamburger menu?
 
 **Zain**
