@@ -66,9 +66,12 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 1. Gebruik ik teveel div's?
 
 ### Verslag van meeting
+**Antwoorden op mijn vragen:**
 
--na afloop snel uitkomsten vastleggen-
-
+1. Opzoeken op internet.
+1. Gebruik maken van id's.
+1. Font Awesome gaan gebruiken.
+1. In een van de komende lessen.
 
 
 ## Breakdownschets (week 1)
