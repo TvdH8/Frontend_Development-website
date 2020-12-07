@@ -82,7 +82,7 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 ## Intake (week 1)
 **Je startniveau:** Rood.
 
-**Je focus:** Responsive design.
+**Je focus:** Surface layer.
 
 **Je opdracht:** (https://www.yamaha-motor.eu/nl/nl/ "Yamaha motors")
 
