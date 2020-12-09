@@ -7,7 +7,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Bronnenlijst
 1. Darken an image with filter: https://www.dailysmarty.com/posts/how-to-darken-an-image-with-css
-1. 
+1. Pick a color of an image: https://pinetools.com/image-color-picker
+1.
 
 
 
