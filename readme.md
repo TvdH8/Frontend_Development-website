@@ -6,9 +6,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. Darken an image with filter: https://www.dailysmarty.com/posts/how-to-darken-an-image-with-css
+1. 
 
 
 
