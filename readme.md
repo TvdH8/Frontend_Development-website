@@ -30,7 +30,33 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+Het was makkelijk om alle code over te nemen, maar het kostte erg veel tijd.
+Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel tijd.
+
+**Screenshot(s):**
+<img src="momentopname-week5.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
+<img src="momentopname-week5-2.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
+
+### Agenda voor meeting
+
+**Stijn:** 
+1. Hoe maak je een oneindige loop van fotos horizontaal? 
+1. Hoe zorg je ervoor dat fotos na 5 sec veranderen incl. tekst?
+
+**Sara**
+1. Wanneer gebruik ik te veel classes? 
+1. Is het aantal wat ik heb te veel?
+
+**Tim**
+1. Hoe maak je een dropdown met transition die over andere tekst heen valt?
+1. Hoe maak je een dropdown navigatie, die navigeert naar content op dezelfde pagina?
+1. Hoe kan ik zien welke icon (i element) er word gebruikt?
+1. Wanneer gaan we meer horen over het creëren van een hamburger menu?
+
+**Zain**
+1. Gebruik ik teveel div's?
 
 
 
