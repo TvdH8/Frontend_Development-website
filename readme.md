@@ -43,18 +43,15 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 ### Agenda voor meeting
 
 **Stijn:** 
-1. Hoe maak je een oneindige loop van fotos horizontaal? 
-1. Hoe zorg je ervoor dat fotos na 5 sec veranderen incl. tekst?
+1. Hoe kan ik het bovenste gedeelte van de home pagina goed maken? Dus het om de zo veel seconden verandere van de foto en tekst.
+1. Hoe kan ik de header bovenop de main content zetten, nu word de img een beetje afgsneden, ik maak nu ook gebruik van een z-index om hem er op te leggen misschien dat dat het probleem verooraakt.
 
 **Sara**
-1. Wanneer gebruik ik te veel classes? 
-1. Is het aantal wat ik heb te veel?
+1. Hoe wordt mijn zoekbutton een vergrootglas?
 
 **Tim**
-1. Hoe maak je een dropdown met transition die over andere tekst heen valt?
-1. Hoe maak je een dropdown navigatie, die navigeert naar content op dezelfde pagina?
-1. Hoe kan ik zien welke icon (i element) er word gebruikt?
-1. Wanneer gaan we meer horen over het creëren van een hamburger menu?
+1. Hoe krijg je de achtergrond van een tekst een stuk langer en hoe kan ik daar een foto overheen zetten?
+1. Ik heb het idee dat de preview van brackets soms gek doet, doordat hij soms dingen niet aanpast of dingen vanuit zichzelf.
 
 **Zain**
 1. Gebruik ik teveel div's?
@@ -90,15 +87,15 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 1. Wanneer gaan we meer horen over het creëren van een hamburger menu?
 
 **Zain**
-1. Gebruik ik teveel div's?
+1. Hoe voeg je items toe aan je header als die groter wordt?
+
+**Julius**
+1.
 
 ### Verslag van meeting
 **Antwoorden op mijn vragen:**
 
-1. Opzoeken op internet.
-1. Gebruik maken van id's.
-1. Font Awesome gaan gebruiken.
-1. In een van de komende lessen.
+1. 
 
 
 ## Breakdownschets (week 1)
