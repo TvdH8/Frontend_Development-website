@@ -36,8 +36,8 @@ Het was makkelijk om alle code over te nemen, maar het kostte erg veel tijd.
 Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel tijd.
 
 **Screenshot(s):**
-<img src="momentopname-week5.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
-<img src="momentopname-week5-2.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
+<img src="images/momentopname-week5.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
+<img src="images/momentopname-week5-2.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
 
 ### Agenda voor meeting
 
