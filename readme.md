@@ -24,9 +24,23 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
 
+Er is iets fout in mijn code, waardoor het allemaal heel gek weergegeven wordt.
+Ik had een dropdown gemaakt en die werkte perfect. Nu kijk ik er een paar dagen later op terug en doet hij het niet meer.
+In de tussentijd heb ik er niks aan veranderd.
 
+**Stijn:** 
+1. Kan ik met een  document.querySelector of iets in die richting ook css aan spreken en vervangen. Ik moet namelijk images loopen. Normaal doe je dit vanuit de html maar mijn achtergrond image staat in de css.
+
+**Tim:**
+1. Hoe maak ik een carousel met images van verschillende groottes?
+
+**Screenshot(s):**
+
+<img src="images/tussentijds-gesprek-3-2.png" width="750px" alt="Momentopname van de website voor het 3e gesprek.">
+<img src="images/tussentijds-gesprek-3-1.png" width="750px" alt="Momentopname van de website voor het 3e gesprek.">
+<img src="images/tussentijds-gesprek-3-3d.png" width="750px" alt="Momentopname van de website voor het 3e gesprek.">
 
 ## Voortgang 2 (week 5)
 
