@@ -6,9 +6,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. Darken an image with filter: https://www.dailysmarty.com/posts/how-to-darken-an-image-with-css
-1. Pick a color of an image: https://pinetools.com/image-color-picker
-1.
+1. -bron 1-
+2. -bron 2-
+3. -...-
 
 
 
@@ -24,51 +24,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
-### Stand van zaken
+-same as voortgang 1-
 
-Er is iets fout in mijn code, waardoor het allemaal heel gek weergegeven wordt.
-Ik had een dropdown gemaakt en die werkte perfect. Nu kijk ik er een paar dagen later op terug en doet hij het niet meer.
-In de tussentijd heb ik er niks aan veranderd.
 
-**Stijn:** 
-1. Kan ik met een  document.querySelector of iets in die richting ook css aan spreken en vervangen. Ik moet namelijk images loopen. Normaal doe je dit vanuit de html maar mijn achtergrond image staat in de css.
-
-**Tim:**
-1. Hoe maak ik een carousel met images van verschillende groottes?
-
-**Screenshot(s):**
-
-<img src="images/tussentijds-gesprek-3-2.png" width="750px" alt="Momentopname van de website voor het 3e gesprek.">
-<img src="images/tussentijds-gesprek-3-1.png" width="750px" alt="Momentopname van de website voor het 3e gesprek.">
-<img src="images/tussentijds-gesprek-3-3.png" width="750px" alt="Momentopname van de website voor het 3e gesprek.">
 
 ## Voortgang 2 (week 5)
 
-### Stand van zaken
-
-Het was makkelijk om alle code over te nemen, maar het kostte erg veel tijd.
-Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel tijd.
-
-**Screenshot(s):**
-
-<img src="images/momentopname-week5.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
-<img src="images/momentopname-week5-2.png" width="750px" alt="Momentopname van de website voor het 2e gesprek.">
-
-### Agenda voor meeting
-
-**Stijn:** 
-1. Hoe kan ik het bovenste gedeelte van de home pagina goed maken? Dus het om de zo veel seconden verandere van de foto en tekst.
-1. Hoe kan ik de header bovenop de main content zetten, nu word de img een beetje afgsneden, ik maak nu ook gebruik van een z-index om hem er op te leggen misschien dat dat het probleem verooraakt.
-
-**Sara**
-1. Hoe wordt mijn zoekbutton een vergrootglas?
-
-**Tim**
-1. Hoe krijg je de achtergrond van een tekst een stuk langer en hoe kan ik daar een foto overheen zetten?
-1. Ik heb het idee dat de preview van brackets soms gek doet, doordat hij soms dingen niet aanpast of dingen vanuit zichzelf.
-
-**Zain**
-1. Gebruik ik teveel div's?
+-same as voortgang 1-
 
 
 
@@ -101,15 +63,15 @@ Ik had soms problemen met het opslaan van de foto's, dus dat kostte ook erg veel
 1. Wanneer gaan we meer horen over het creëren van een hamburger menu?
 
 **Zain**
-1. Hoe voeg je items toe aan je header als die groter wordt?
-
-**Julius**
-1.
+1. Gebruik ik teveel div's?
 
 ### Verslag van meeting
 **Antwoorden op mijn vragen:**
 
-1. 
+1. Opzoeken op internet.
+1. Gebruik maken van id's.
+1. Font Awesome gaan gebruiken.
+1. In een van de komende lessen.
 
 
 ## Breakdownschets (week 1)
